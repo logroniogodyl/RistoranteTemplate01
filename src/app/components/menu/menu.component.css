@@ -116,7 +116,6 @@
 .contenuto-modale {
   position: relative;
   width: 70%;
-  height: 600px;
   background-color: black;
   padding: 10px;
   z-index: 11;
